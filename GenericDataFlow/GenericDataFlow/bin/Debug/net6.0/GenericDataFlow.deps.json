@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GenericDataFlow/1.0.0": {
+        "runtime": {
+          "GenericDataFlow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GenericDataFlow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

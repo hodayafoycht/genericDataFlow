@@ -1,0 +1,15 @@
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\bin\Debug\net6.0\GenericDataFlow.exe
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\bin\Debug\net6.0\GenericDataFlow.deps.json
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\bin\Debug\net6.0\GenericDataFlow.runtimeconfig.json
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\bin\Debug\net6.0\GenericDataFlow.dll
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\bin\Debug\net6.0\GenericDataFlow.pdb
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.AssemblyInfoInputs.cache
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.AssemblyInfo.cs
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.csproj.CoreCompileInputs.cache
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.sourcelink.json
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.dll
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\refint\GenericDataFlow.dll
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.pdb
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\GenericDataFlow.genruntimeconfig.cache
+C:\code\genericDataFlow\GenericDataFlow\GenericDataFlow\obj\Debug\net6.0\ref\GenericDataFlow.dll
